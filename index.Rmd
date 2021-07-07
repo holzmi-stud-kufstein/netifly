@@ -1,8 +1,10 @@
 ---
-title: "Speed and Distance"
+title: "index"
 ---
 
-
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
 
 ## R Markdown
 
