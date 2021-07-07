@@ -1,17 +1,14 @@
 ---
-title: "test_netify"
-author: "Michael Holzinger"
-date: "7/7/2021"
-output: html_document
----
-
-```{r setup, include=FALSE}
+title: "Speed and Distance"
 knit: (function(input_file, encoding) {
   out_dir <- 'docs';
   rmarkdown::render(input_file,
  encoding=encoding,
  output_file=file.path(dirname(input_file), out_dir, 'index.html'))})
-```
+output: html_document
+---
+
+
 
 ## R Markdown
 
